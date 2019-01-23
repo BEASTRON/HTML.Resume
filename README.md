@@ -15,6 +15,29 @@
 <div> 
   <center><h2>Bernardo Dacanay Villajuan</h2></center>
   
-  <div class="w3-display-container w3-white" style="height:300px;">
-    <div class="w3-display-topleft w3-padding">13113 Prima Drive</div>
-    <div class="w3-display-topright w3-padding">(518)796-5943</div>
+  <table class="w3-table">
+    
+    <tr>
+      <td>13113 Prima Drive</td>
+      <td></td>
+      <td>(518)796-5943</td>
+    </tr>
+    <tr>
+      <td>Bradenton, FL 34211</td>
+      <td></td>
+      <td>beastron.carpio@gmail.com</td>
+    </tr>
+	
+    
+<h4></h4>
+    
+
+
+<!--<div class="w3-container"> 
+  <h5>With a Container</h5>
+  <p>The w3-container class is one of the most important W3.CSS classes.</p>
+  <p>It provides correct margins, padding, alignments, and more, to most HTML elements.</p>-->
+</div>
+
+</body>
+</html>
